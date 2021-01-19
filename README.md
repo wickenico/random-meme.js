@@ -12,9 +12,9 @@ A Scriptable widget that shows random memes
 
 ## Setup
 
-1. (if not done yet) Download the scriptable app form AppStore: https://apps.apple.com/de/app/scriptable/id1405459188
+1. (if not done yet) Download the scriptable app form [AppStore](https://apps.apple.com/de/app/scriptable/id1405459188)
 2. In Scriptable create a new script
-3. Copy the code from file stock-random-meme.js: https://github.com/wickenico/random-meme.js/blob/main/random-meme.js
+3. Copy the code from script file [stock-random-meme.js](https://github.com/wickenico/random-meme.js/blob/main/random-meme.js)
 4. Create a new **large** widget on homescreen and select this script in scriptable
 
 
