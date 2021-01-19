@@ -1,5 +1,6 @@
 # random-meme.js
-A Scriptable widget that shows random memes
+A Scriptable widget that shows random memes from reddit.
+Please use a large widget.
 
 ![random-meme-widget-small](img/random-meme-widget-small.png)
 
